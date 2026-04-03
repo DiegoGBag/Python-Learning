@@ -24,3 +24,12 @@ initials = employee_code[9:11]
 print(initials)
 last_three = employee_code[-3:]
 print(last_three)
+
+#OUTPUT: 
+#John Doe is 28 years old
+#Experience: 5 years
+#Employee: John Doe | Age: 28 | Position: Data Analyst | Salary: $75000
+#DEV
+#2026
+#JD
+#001
